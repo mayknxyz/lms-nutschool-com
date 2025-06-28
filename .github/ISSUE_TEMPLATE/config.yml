@@ -1,0 +1,9 @@
+# .github/ISSUE_TEMPLATE/config.yml
+blank_issues_enabled: true
+contact_links:
+  - name: Community Discussions
+    url: https://github.com/your-username/nutschool-lms/discussions
+    about: Ask questions, share ideas, or start general discussions here.
+  - name: NutSchool.com Support
+    url: https://www.nutschool.com/contact
+    about: If your issue is related to the NutSchool Pro version or paid services, please contact our support team.
